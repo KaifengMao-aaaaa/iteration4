@@ -1,15 +1,5 @@
 zID: z5387241
-Chosen bonus feature(s): Hangman and Databases
-
-
-Explanation (~100 words):
-
-
-
-1.Hangman:
-
-
-l create two new routes named hangman/start/v1 and hangman/end/v1.These routes only can control the start and end of hangman. l mainly rely on messages to present the status of hangman game. For the backend, l create a specific file called hangmanlib to store all functions about hangman.For frontend, l add two paths named HANGMAN_START and HANGMAN_END at src/utils/path.js. In addion, l add two buttons at channel page to start or end hangman so l modify code at src/components/channel/index.js.
+Chos
 
 
 
